@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsbuildafullstackreactapp386703ce": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
